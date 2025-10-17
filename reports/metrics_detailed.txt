@@ -1,0 +1,25 @@
+Pixel Accuracy: 83.04%
+Mean IoU: 25.18%
+
+Per-Class IoU:
+     background: 76.69%
+      aeroplane: 35.90%
+        bicycle: 4.47%
+           bird: 21.75%
+           boat: 25.48%
+         bottle: 14.05%
+            bus: 51.47%
+            car: 25.50%
+            cat: 33.21%
+          chair: 3.98%
+            cow: 22.01%
+    diningtable: 19.67%
+            dog: 25.75%
+          horse: 22.29%
+      motorbike: 25.57%
+         person: 23.70%
+    pottedplant: 5.85%
+          sheep: 24.67%
+           sofa: 13.35%
+          train: 32.19%
+      tvmonitor: 21.19%

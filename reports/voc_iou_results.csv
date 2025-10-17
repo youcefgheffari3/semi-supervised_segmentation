@@ -1,0 +1,24 @@
+Class,IoU
+background,0.7626
+aeroplane,0.3266
+bicycle,0.0332
+bird,0.2207
+boat,0.2264
+bottle,0.1201
+bus,0.4984
+car,0.2539
+cat,0.3201
+chair,0.0291
+cow,0.2177
+diningtable,0.2154
+dog,0.2485
+horse,0.2036
+motorbike,0.3011
+person,0.2256
+pottedplant,0.0668
+sheep,0.2864
+sofa,0.1612
+train,0.4108
+tvmonitor,0.2169
+
+Mean IoU,0.2545

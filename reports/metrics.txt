@@ -1,0 +1,2 @@
+Pixel Accuracy: 83.04%
+Mean IoU: 46.76%
