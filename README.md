@@ -7,6 +7,8 @@
 This project implements a **complete semi-supervised semantic segmentation pipeline** using **DeepLabV3-ResNet50** in **PyTorch**, trained on the **Pascal VOC 2012** dataset.  
 It leverages both labeled and unlabeled data through **pseudo-labeling** to reduce dependency on costly manual annotations while maintaining strong segmentation performance.
 
+📄 **For comprehensive details, methodology, experiments, and analysis, please refer to the full report: [`Semi_Supervised_Semantic_Segmentation_Report.pdf`](Semi_Supervised_Semantic_Segmentation_Report.pdf)**
+
 ---
 
 ## 📌 Key Features
@@ -26,9 +28,9 @@ It leverages both labeled and unlabeled data through **pseudo-labeling** to redu
 - **Reproducible Research Setup:**  
   Entirely implemented in **Python 3.13 + PyTorch**, with clear directory structure and logging.
 
+
+
 ---
-
-
 
 ## 🚀 Training Pipeline Overview
 
@@ -173,21 +175,6 @@ All dependencies are listed in `requirements.txt`.
 
 ---
 
-## 📈 Visualizations
-
-### 1️⃣ Training Pipeline
-![Implementation Pipeline](report/figures/implementation_pipeline.png)
-
-### 2️⃣ Per-Class IoU Bar Plot
-![Class IoU Bar Plot](report/figures/class_iou_barplot.png)
-
-### 3️⃣ Qualitative Results
-![Qualitative Comparison](report/figures/qualitative_comparison.png)
-
-
-
----
-
 ## 🙏 Acknowledgments
 
 Special thanks to the authors of the paper:  
@@ -200,7 +187,6 @@ Their work inspired the conceptual foundation of this implementation.
 ## 📧 Contact
 
 **Author:** Gheffari Youcef Soufiane  
-**Institution:** University of Science and Technology of Oran Mohamed-Boudiaf (USTOMB)  
 **Email:** [youcefgheffari3@gmail.com](mailto:youcefgheffari3@gmail.com)  
 **GitHub:** [@youcefgheffari3](https://github.com/youcefgheffari3)
 
@@ -210,11 +196,6 @@ Their work inspired the conceptual foundation of this implementation.
 
 `semantic-segmentation` • `pseudo-labeling` • `semi-supervised-learning` • `deeplabv3` • `pytorch` • `computer-vision` • `pascal-voc` • `deep-learning`
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
